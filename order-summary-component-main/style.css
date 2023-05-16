@@ -37,12 +37,15 @@ body {
 #title {
     font-weight: 900;
     font-size: 20px;
-    
+    align-self: center;
 }
 
 
 #paragraph_text {
     font-size: 16px;
-    margin: 0 50px;
-    color: hsl(225, 100%, 98%);
+    margin: 0 35px; 
+    font-weight: 100;
+    color: rgb(137, 137, 137);
+    text-align: center;
 }
+
