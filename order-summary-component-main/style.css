@@ -49,3 +49,11 @@ body {
     text-align: center;
 }
 
+#price_container {
+    background-color: hsl(225, 100%, 98%);
+    width: 270px;
+    border-radius: 10px;
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 25px;
+}
