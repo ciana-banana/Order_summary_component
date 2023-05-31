@@ -1,5 +1,5 @@
 body {
-    background-image: url("/order-summary-component-main/images/pattern-background-desktop.svg");
+    background-image: url("/images/pattern-background-desktop.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-color: hsl(225, 100%, 94%);
@@ -53,7 +53,12 @@ body {
     background-color: hsl(225, 100%, 98%);
     width: 270px;
     border-radius: 10px;
-    display: flex;
-    justify-content:space-evenly;
+    display: flex; 
     margin-top: 25px;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+#music_image {
+    height: 40px;
 }
