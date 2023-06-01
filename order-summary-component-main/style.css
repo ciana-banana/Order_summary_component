@@ -70,3 +70,14 @@ body {
 #music_image {
     height: 40px;
 }
+
+#first_button {
+    width: 280px;
+    margin-top: 25px;
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+    border-radius: 10px;
+    height: 40px;
+    border: none;
+
+}
