@@ -81,3 +81,14 @@ body {
     border: none;
 
 }
+
+
+#second_button {
+    width: 280px;
+    margin-top: 10px;
+    color: rgb(137, 137, 137);
+    border-radius: 10px;
+    height: 40px;
+    border: none;
+    background-color: white;
+}
