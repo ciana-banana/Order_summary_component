@@ -18,20 +18,20 @@ body {
     transform: translate(0, -50%);
 }
 
-#main_container img {
+#big_img {
     width: 100%;
     border-top-right-radius: 15px;
     border-top-left-radius: 15px;
 }
 
-#text_container {
-    
+#text_container { 
     display: flex;
     flex-direction: column;
     width: 100%;
     height: 80%;
     align-items: center;
     margin-bottom: 40px;
+    
 }
 
 #title {
@@ -56,7 +56,15 @@ body {
     display: flex; 
     margin-top: 25px;
     align-items: center;
-    justify-content: flex-start;
+    padding-right: 25px;
+    padding-left: 25px;
+    justify-content: space-between;
+}
+
+#first_text {
+    margin: 17px 17px 17px 0px;
+    padding-left: 0px;
+    font-size: 12px;
 }
 
 #music_image {
